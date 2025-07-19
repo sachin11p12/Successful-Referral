@@ -103,7 +103,7 @@ Sita,sita@example.com,,Aanand,true
 **Sachin Tiwari**  
 B.Tech (IT)  
 Email: `sachin11p12@gmail.com`  
-GitHub: [[github.com/sachin-tiwari](https://github.com/sachin-tiwari](https://github.com/sachin11p12))
+GitHub: [github.com/sachin-tiwari](https://github.com/sachin11p12)
 
 
 
