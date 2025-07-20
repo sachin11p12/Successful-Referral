@@ -108,11 +108,3 @@ GitHub: [github.com/sachin-tiwari](https://github.com/sachin11p12)
 
 
 ---
-
-## ✅ Assignment Notes
-
-- ✅ Public API tested using Postman and cURL
-- ✅ Code is clean, readable, and well-commented
-- ✅ Bonus: CSV report generation feature included
-
----
